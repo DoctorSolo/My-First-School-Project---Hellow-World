@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696893047 source:c:\users\migue\documents\documentos\area 51\programação\hellow world\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
